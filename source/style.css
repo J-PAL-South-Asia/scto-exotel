@@ -1,0 +1,24 @@
+.exotel-container {
+    margin: .5rem;
+    padding: .5rem;
+    border: 1px solid #639c33;
+    background-color: rgba(99,156,51,.2);
+}
+.btn {
+    display: block;
+    padding: .4rem;
+    margin: .5rem 0;
+    border: 1px solid #047CC2;
+    border-radius: .25rem;
+}
+.btn.btn-block {
+    width: 100%;
+}
+.response {
+    /* add style rules here to change how the response appears */
+    width: 100%;
+    margin: .5rem 0;
+    padding: .5rem;
+    border: 1px solid #047CC2;
+    box-sizing: border-box;
+}
