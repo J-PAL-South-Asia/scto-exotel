@@ -26,7 +26,7 @@ To use the plug-in as-is, download the [exotel-dialer.fieldplugin.zip](https://g
 
 ## Required parameters
 
-The *appearance* specifications for calling and SMS are different. Please refer to the test form in [extras/test-form](https://github.com/J-PAL-South-Asia/scto-exotel/tree/master/extras/test-form). 
+The *appearance* specifications for calling and SMS are different. Please refer to both of these in the test form in [extras/test-form](https://github.com/J-PAL-South-Asia/scto-exotel/tree/master/extras/test-form). 
 
 | Key | Value |
 | --- | --- |
