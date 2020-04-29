@@ -22,7 +22,7 @@ This plug-in allows for Exotel calls to be made or SMSes to be sent from within 
 
 ## How to use
 
-To use the plug-in as-is, download the [exotel-dialer.fieldplugin.zip](https://github.com/J-PAL-South-Asia/scto-exotel/raw/master/exotel-dialer.fieldplugin.zip) file from this repo, and attach it to your form. Make sure to provide the correct parameters (see below).
+To use the plug-in as-is, download the [exotel-dialer.fieldplugin.zip](https://github.com/J-PAL-South-Asia/scto-exotel/raw/master/exotel-dialer.fieldplugin.zip) file from this repo, and attach it to your form. Make sure to provide the correct parameters (see below) when you design your form.
 
 ## Required parameters
 
