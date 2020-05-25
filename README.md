@@ -17,8 +17,8 @@ This plug-in allows for Exotel calls to be made or SMSes to be sent from within 
  * Allows you to choose if respondent number should be displayed to the enumerator on the plug-in page in the form.
  * Allows you to toggle Exotel's audio recording feature on or off.
  * This version of the plug-in only works with Indian phone numbers.
- * The Exotel server does not support Cross-Origin Resource Sharing (CORS). To overcome this problem, the plug-in routes API requests first to a J-PAL South Asia server and then to Exotel. 
-	 * You are welcome to use the plug-in as-is (the J-PAL South Asia server can handle additional traffic) or you could create your own version of the plug-in to route requests to your own server. Exotel's API documentation can be accessed [here](https://developer.exotel.com/api).
+ * The current version of the plug-in communicates directly with the Exotel servers (without needing to reroute to a personal server, as in previous versions).  Exotel's API documentation can be accessed [here](https://developer.exotel.com/api).
+ * **The plug-in only works with SurveyCTO Collect Maintenance Version 2.70.2 currently and not with web based forms.**
 
 ## How to use
 
