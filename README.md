@@ -18,7 +18,7 @@ This plug-in allows for Exotel calls to be made or SMSes to be sent from within 
  * Allows you to toggle Exotel's audio recording feature on or off.
  * This version of the plug-in only works with Indian phone numbers.
  * The current version of the plug-in communicates directly with the Exotel servers (without needing to reroute to a personal server, as in previous versions).  Exotel's API documentation can be accessed [here](https://developer.exotel.com/api).
- * **The plug-in only works with SurveyCTO Collect Maintenance Version 2.70.2 currently and not with web based forms.**
+ * **The field plug-in only works with SurveyCTO Collect version 2.70.2+ (currently an [early release](https://docs.surveycto.com/collect/)). It will not yet work on web forms.**
 
 ## How to use
 
